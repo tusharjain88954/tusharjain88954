@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **data structure and algorithms, elasticsearch(ELK), feathersjs**
+- 💬 Ask me about **data structure and algorithms, elasticsearch(ELK), mongodb**
 
 - 📫 How to reach me **tusharjain11282001@gmail.com**
 
