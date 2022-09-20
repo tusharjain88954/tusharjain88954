@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tushar Jain</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-
-- 🔭 I’m currently working on [splitter](very soon)
-
-- 🌱 I’m currently learning **Angular**
-
 - 💬 Ask me about **data structure and algorithms, elasticsearch(ELK), mongodb**
 
 - 📫 How to reach me **tusharjain11282001@gmail.com**
